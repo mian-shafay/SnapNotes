@@ -21,7 +21,7 @@
 ```
 SnapNotes/
 │
-├── SnapNotes.py          # Main Streamlit app — UI and file handling
+├── SnapNotes.py          # Main app — UI and file handling
 ├── document_parser.py    # PDF and PPTX text extraction to Markdown
 ├── note_maker.py         # Groq API call — summarizes content with AI
 ├── run.py                # Launcher — patches browser tab title, starts app
@@ -85,9 +85,9 @@ GROQ_API_KEY=your_actual_groq_api_key_here
 
 ### 5. Run the app
 ```bash
-python run.py
+python -m streamlit run SnapNotes.py
 ```
-This launches the Streamlit app in your browser at `http://localhost:8501`.
+This launches the SnapNotes app in your browser at `http://localhost:8501`.
 
 ---
 
