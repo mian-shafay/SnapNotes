@@ -16,6 +16,23 @@
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/main_ui.png" width="600"/><br/>
+      <b>🖥️ Main Interface</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/sidebar.png" width="220"/><br/>
+      <b>⚙️ Setup Sidebar</b>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🗂️ Project Structure
 
 ```
