@@ -54,5 +54,5 @@ st.sidebar.title("Setup Instructions")
 st.sidebar.markdown("""
 1. Go to your project folder
 2. Add your `GROQ_API_KEY` in the `.env` file.
-3. Run `.\\venv\\Scripts\\python run.py`
+3. Run `python -m streamlit run SnapNotes.py`
 """)
